@@ -6,7 +6,7 @@ Furthermore I try to learn :seedling: everyday...
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=linux&logoColor=white&color=007CF0)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=007CF0)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=007CF0)
