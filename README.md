@@ -18,6 +18,5 @@ Furthermore I try to learn :seedling: everyday...
 
 :wave: You can follow me or contact me here
 
-- [@dirsigler on Twitter](https://twitter.com/dirsigler)
 - [@dirsigler on GitHub](https://github.com/dirsigler)
 - [@dirsigler on GitLab](https://gitlab.com/dirsigler)
