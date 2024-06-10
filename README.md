@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy) - The ConfigCat Proxy allows you to host a feature flag evaluation service in your own infrastructure. (1 month ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (1 month ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (1 month ago)
 - [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) - ELK-Stack for KubeArmor (1 month ago)
-- [kubearmor/policy-templates](https://github.com/kubearmor/policy-templates) - Community curated list of System and Network policy templates for the KubeArmor and Cilium (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
