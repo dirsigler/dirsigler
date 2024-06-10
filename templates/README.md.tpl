@@ -18,7 +18,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
-#### Technologies & Tools
+#### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=007CF0)<br/>
@@ -28,7 +28,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat-square&logo=terraform&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat-square&logo=helm&logoColor=white&color=007CF0)
 
-#### Contact Information
+#### 📲 Contact Information
 
 You can follow or contact me here
 
@@ -36,3 +36,5 @@ You can follow or contact me here
 - Web: https://irsigler.dev/
 - Blog: https://blog.irsigler.dev/
 - Mail: mailto:github@irsigler.dev
+
+---
