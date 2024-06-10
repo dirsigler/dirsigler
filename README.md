@@ -1,4 +1,4 @@
-## Greetings from Germany! 🇩🇪
+### Greetings from Germany! 🇩🇪
 
 I'm a Cloud Engineer ☁️ building tools and infrastructure to make other Engineers life a happier one!
 My primary focus is on Google Cloud, Cloud Security, Golang.
@@ -22,7 +22,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 - [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) - ELK-Stack for KubeArmor (1 month ago)
 - [kubearmor/policy-templates](https://github.com/kubearmor/policy-templates) - Community curated list of System and Network policy templates for the KubeArmor and Cilium (1 month ago)
 
-### Technologies & Tools
+#### Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=007CF0)<br/>
@@ -32,7 +32,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat-square&logo=terraform&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat-square&logo=helm&logoColor=white&color=007CF0)
 
-### Contact info
+#### Contact Information
 
 You can follow or contact me here
 
