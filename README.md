@@ -16,9 +16,9 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine (2 days ago)
-- [Nuro-ai/CLARITY](https://github.com/Nuro-ai/CLARITY) - The CLoud Asset Repositry and Inventory Tool for You (CLARITY) is a tool to extend Google Cloud Platform&#39;s Cloud Asset Inventory (CAI) for better usability and functionality. (6 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
+- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine (3 days ago)
+- [Nuro-ai/CLARITY](https://github.com/Nuro-ai/CLARITY) - The CLoud Asset Repositry and Inventory Tool for You (CLARITY) is a tool to extend Google Cloud Platform&#39;s Cloud Asset Inventory (CAI) for better usability and functionality. (1 week ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy) - The ConfigCat Proxy allows you to host a feature flag evaluation service in your own infrastructure. (1 month ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (2 months ago)
 
