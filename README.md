@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt&#39;er for use in shell scripts. (today)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 day ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 days ago)
 - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine (1 week ago)
 - [Nuro-ai/CLARITY](https://github.com/Nuro-ai/CLARITY) - The CLoud Asset Repositry and Inventory Tool for You (CLARITY) is a tool to extend Google Cloud Platform&#39;s Cloud Asset Inventory (CAI) for better usability and functionality. (2 weeks ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 weeks ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
