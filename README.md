@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (today)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
 - [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt&#39;er for use in shell scripts. (1 day ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (2 days ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (5 days ago)
-- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine (1 week ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
