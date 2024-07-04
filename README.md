@@ -5,11 +5,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### 🌱 My latest projects
 
+- [dirsigler/devcontainer-features](https://github.com/dirsigler/devcontainer-features)
 - [dirsigler/incidentio-exporter](https://github.com/dirsigler/incidentio-exporter) - A Prometheus Exporter for the https://incident.io incident management solution.
 - [dirsigler/.github](https://github.com/dirsigler/.github)
 - [dirsigler/marp-demo](https://github.com/dirsigler/marp-demo)
 - [dirsigler/astronauts-exporter](https://github.com/dirsigler/astronauts-exporter)
-- [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
 
 #### 📝 My recent blog posts
 
