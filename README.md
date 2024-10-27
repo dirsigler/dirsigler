@@ -18,9 +18,9 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 - [peschmae/glab-component-generator](https://github.com/peschmae/glab-component-generator) - Golang tool CLI tool to generate README.md from Gitlab Components (1 week ago)
 - [RoseSecurity/Kuzco](https://github.com/RoseSecurity/Kuzco) - Kuzco reviews your Terraform and OpenTofu resources, compares them to the provider schema to detect unused parameters, and uses AI to suggest improvements (1 week ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (4 weeks ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 month ago)
 - [fraunhoferfokus/deckschrubber](https://github.com/fraunhoferfokus/deckschrubber) - Deckschrubber inspects images of a Docker Registry and removes those older than a given age. :high_brightness::ship: (2 months ago)
-- [glebarez/cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts (2 months ago)
+- [glebarez/cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts (3 months ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
