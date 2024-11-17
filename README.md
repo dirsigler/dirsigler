@@ -19,7 +19,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 - [PCJones/radarr-sonarr-german-dual-language](https://github.com/PCJones/radarr-sonarr-german-dual-language) - Guide on how to prefer German &#43; English dual language in Radarr and Sonarr (1 week ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 weeks ago)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini. (2 weeks ago)
-- [peschmae/glab-component-generator](https://github.com/peschmae/glab-component-generator) - Golang tool CLI tool to generate README.md from Gitlab Components (4 weeks ago)
+- [peschmae/glab-component-generator](https://github.com/peschmae/glab-component-generator) - Golang tool CLI tool to generate README.md from Gitlab Components (1 month ago)
 - [RoseSecurity/Kuzco](https://github.com/RoseSecurity/Kuzco) - Kuzco reviews your Terraform and OpenTofu resources, compares them to the provider schema to detect unused parameters, and uses AI to suggest improvements and fixes (1 month ago)
 
 #### ⚒️ Technologies & Tools
