@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [datosh/pinned-actions](https://github.com/datosh/pinned-actions) - How many GitHub repositories actually pin by hash? (today)
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [PCJones/radarr-sonarr-german-dual-language](https://github.com/PCJones/radarr-sonarr-german-dual-language) - Guide on how to prefer German &#43; English dual language in Radarr and Sonarr (1 month ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 month ago)
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini. (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
