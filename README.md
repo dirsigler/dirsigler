@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [NeverSinkDev/NeverSink-PoE2litefilter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter) - This is a lootfilter for the game &#34;Path of Exile 2&#34;. It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user (today)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (3 days ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (6 days ago)
 - [datosh/pinned-actions](https://github.com/datosh/pinned-actions) - How many GitHub repositories actually pin by hash? (1 week ago)
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management (4 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
