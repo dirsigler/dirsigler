@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (today)
 - [NeverSinkDev/NeverSink-PoE2litefilter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter) - This is a lootfilter for the game &#34;Path of Exile 2&#34;. It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user (1 week ago)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (1 week ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (2 weeks ago)
 - [datosh/pinned-actions](https://github.com/datosh/pinned-actions) - How many GitHub repositories actually pin by hash? (2 weeks ago)
-- [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
