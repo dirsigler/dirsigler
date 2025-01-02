@@ -16,10 +16,10 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 day ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
-- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (5 days ago)
-- [NeverSinkDev/NeverSink-PoE2litefilter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter) - This is a lootfilter for the game &#34;Path of Exile 2&#34;. It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user (1 week ago)
+- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (2 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (4 days ago)
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (6 days ago)
+- [NeverSinkDev/NeverSink-PoE2litefilter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter) - This is a lootfilter for the game &#34;Path of Exile 2&#34;. It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user (2 weeks ago)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (2 weeks ago)
 
 #### ⚒️ Technologies & Tools
