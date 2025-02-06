@@ -36,7 +36,6 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 You can follow or contact me here
 
-- Twitter: https://twitter.com/dirsigler/
 - Web: https://irsigler.dev/
 - Blog: https://blog.irsigler.dev/
 - Mail: mailto:github@irsigler.dev
