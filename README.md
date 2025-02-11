@@ -16,8 +16,8 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (1 day ago)
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (4 days ago)
+- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (2 days ago)
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (5 days ago)
 - [giantswarm/personio-go](https://github.com/giantswarm/personio-go) - Personio Client for Go (2 weeks ago)
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
