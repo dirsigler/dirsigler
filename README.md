@@ -16,10 +16,10 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (today)
-- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (4 days ago)
+- [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (1 day ago)
+- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (5 days ago)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
-- [giantswarm/personio-go](https://github.com/giantswarm/personio-go) - Personio Client for Go (2 weeks ago)
+- [giantswarm/personio-go](https://github.com/giantswarm/personio-go) - Personio Client for Go (3 weeks ago)
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 month ago)
 
 #### ⚒️ Technologies & Tools
