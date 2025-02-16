@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (today)
 - [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (3 days ago)
 - [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (1 week ago)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
 - [giantswarm/personio-go](https://github.com/giantswarm/personio-go) - Personio Client for Go (3 weeks ago)
-- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
