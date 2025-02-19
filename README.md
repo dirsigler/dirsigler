@@ -16,9 +16,9 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (today)
-- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (2 days ago)
-- [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (5 days ago)
+- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (1 day ago)
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (3 days ago)
+- [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (6 days ago)
 - [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (1 week ago)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
 
