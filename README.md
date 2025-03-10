@@ -16,7 +16,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (1 week ago)
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (2 weeks ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (2 weeks ago)
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (3 weeks ago)
 - [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (3 weeks ago)
