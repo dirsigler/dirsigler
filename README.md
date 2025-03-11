@@ -17,10 +17,10 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 #### ⭐ Recent stars
 
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (2 weeks ago)
-- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (2 weeks ago)
+- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (3 weeks ago)
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (3 weeks ago)
 - [dreamsofcode-io/sqlc](https://github.com/dreamsofcode-io/sqlc) (3 weeks ago)
-- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (4 weeks ago)
+- [pedrosilva17/wordlelife](https://github.com/pedrosilva17/wordlelife) - WordleLife is another Wordle-like game similar to Gamedle and Pokédle, but with a wrestling theme. (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
