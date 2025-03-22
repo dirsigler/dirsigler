@@ -16,7 +16,7 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [AzBuilder/terrakube-helm-chart](https://github.com/AzBuilder/terrakube-helm-chart) - Helm chart to install Terrakube in any Kubernetes cluster (today)
+- [AzBuilder/terrakube-helm-chart](https://github.com/AzBuilder/terrakube-helm-chart) - Helm chart to install Terrakube in any Kubernetes cluster (1 day ago)
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (3 weeks ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (1 month ago)
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (1 month ago)
