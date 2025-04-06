@@ -16,8 +16,8 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (today)
-- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. (today)
+- [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (1 day ago)
+- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. (1 day ago)
 - [AzBuilder/terrakube-helm-chart](https://github.com/AzBuilder/terrakube-helm-chart) - Helm chart to install Terrakube in any Kubernetes cluster (2 weeks ago)
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (1 month ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (1 month ago)
