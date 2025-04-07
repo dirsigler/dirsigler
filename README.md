@@ -16,9 +16,9 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (today)
-- [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (1 day ago)
-- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. (1 day ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 day ago)
+- [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (2 days ago)
+- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. (2 days ago)
 - [AzBuilder/terrakube-helm-chart](https://github.com/AzBuilder/terrakube-helm-chart) - Helm chart to install Terrakube in any Kubernetes cluster (2 weeks ago)
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (1 month ago)
 
