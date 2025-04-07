@@ -16,11 +16,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (today)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 day ago)
 - [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (2 days ago)
 - [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. (2 days ago)
 - [AzBuilder/terrakube-helm-chart](https://github.com/AzBuilder/terrakube-helm-chart) - Helm chart to install Terrakube in any Kubernetes cluster (2 weeks ago)
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (1 month ago)
 
 #### ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=007CF0)
