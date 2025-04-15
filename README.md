@@ -5,11 +5,11 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### 🌱 My latest projects
 
-- [dirsigler/list-cloudsql-instances](https://github.com/dirsigler/list-cloudsql-instances)
 - [dirsigler/keeper-of-the-seven-keys](https://github.com/dirsigler/keeper-of-the-seven-keys)
 - [dirsigler/devcontainer-features](https://github.com/dirsigler/devcontainer-features)
 - [dirsigler/incidentio-exporter](https://github.com/dirsigler/incidentio-exporter) - A Prometheus Exporter for the https://incident.io incident management solution.
 - [dirsigler/.github](https://github.com/dirsigler/.github)
+- [dirsigler/marp-demo](https://github.com/dirsigler/marp-demo)
 
 #### 📝 My recent blog posts
 
