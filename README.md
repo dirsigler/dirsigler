@@ -16,8 +16,8 @@ My primary focus is on Google Cloud, Cloud Security, Golang.
 
 #### ⭐ Recent stars
 
-- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (6 days ago)
-- [external-secrets-inc/reloader](https://github.com/external-secrets-inc/reloader) - External Secrets Reloader Allows you to trigger reloads dynamically to Resources in Cluster based on Events. (6 days ago)
+- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (1 week ago)
+- [external-secrets-inc/reloader](https://github.com/external-secrets-inc/reloader) - External Secrets Reloader Allows you to trigger reloads dynamically to Resources in Cluster based on Events. (1 week ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 week ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd) - Terraform provider for Argo CD (1 week ago)
